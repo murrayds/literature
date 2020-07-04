@@ -1,5 +1,21 @@
 # Notes related on scientific collaboration
----
+
+--- 
+## |A|
+
+### Abramo, G., D’Angelo, C. A., & Solazzi, M. (2011). The relationship between scientists’ research performance and the degree of internationalization of their research. Scientometrics, 86(3), 629–643. https://doi.org/10.1007/s11192-010-0284-7
+
+Abramo, D'Angelo, & Solazzi (2011)
+
+**Tags:** Performance; Collaboration; Impact; International
+
+Focusing on Italian researchers between 2001 and 2005, this paper uses co-authorship as a proxy for research collaboration to show that both research productivity and average quality of output increase international mobility. Unlike most research that assumes that internationalization -> increased productivity, this paper tackles the opposite, and finds that a productive and quality scholar is more likely to collaborate internationally. Bibliometric data comes from the Observatory of Public Research in Italy, and focuses on Italians in the Hard Sciences. Productivity and average publication quality (raw count and average number of citations per) are used as performance indicators, and “internationalization indicators” for each author are measure using along dimensions of:
+
+- *“intensity”* (\# of cross-national publications)
+- *“propensity”* (#cross-national publications /total publications)
+- *“amplitude”* (number of nations involved in cross-national publications). 
+
+There is a strong correlation between productivity and internationalization, and weaker correlation between intensity of international collaboration and average quality of an author’s papers. Physics shows the highest propensity for international collaboration. 
 
 
 ---
