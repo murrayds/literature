@@ -94,7 +94,7 @@ The authors build a numerical simulation model based around innovation, and thro
 
 Bäker, 2015
 
-**Tags:** Domestic; Mobility; Production
+**Tags:** Domestic; Mobility; Production; Germany
 
 Investigates how "post-doctoral" mobility among German Economics nad Management faculty, that is, institutions held between their PhD-granting and employer institutions, affects publication. Finds evidence that moving univeristies in PostDoc reduces number of publications. This is attributed to a loss in social capital, in temrs of colleagues and collaborators, during the move. This paper exmaines only within-country mobility for German scholars. Also of note: many german universities tacitly require this post-doctoral period. 
 
@@ -106,7 +106,7 @@ Investigates how "post-doctoral" mobility among German Economics nad Management 
 
 Baraffaldi & Landoni (2012)
 
-**Tags:** Return; Productivity; Brain Circulation
+**Tags:** Return; Productivity; Brain Circulation; Survey; Italy; Portugal
 
 The study is based on a questionarie sent to foreign researchers in Italty and Portugal. 
 
@@ -119,7 +119,7 @@ But the authors also conclude that mobility is not always positive, stating that
 
 Børing et al., (2015)
 
-**Tags:**
+**Tags:** Survey; Europe; Beliefs
 
 The authors survey European researchers employed both by universities and research institution settings about their history and perceptions of mobility. Findings include:
 
@@ -159,6 +159,37 @@ I haven't read the full report, but the executive summary lays out the following
 
 ---
 ## |C|
+
+### Cañibano, C., Fox, M. F., & Otamendi, F. J. (2016). Gender and patterns of temporary mobility among researchers. Science and Public Policy, 43(3), 320–331. https://doi.org/10.1093/scipol/scv042
+
+Cañibano, Fox, & Otamendi (2016)
+
+**Tags:** Spain; Short-term; Gender; Bibliometrics
+
+In this paper, Cañibano et al. use data form the Scientific Information System of Andalusian (SICA) to analyze the frequency, duration, and destinations of short-term mobility (such as research visits) between male and female researchers in Spain. 
+- Women are underrepresented across all disciplines, more so in some fields, like engineering and computer sciences. 
+- Researchers are mobile when they have at least one publication
+- A greater percentage of women than men are mobile. 
+- Women are more likely to become mobile earlier in their career. 
+- But while women are more often mobile, and mobile earlier in their career, their research visits tend to be shorter than men’s, and their destinations more nearby. 
+
+The authors interpret these results as women often performing more “care-work” activities than men, such as taking primary responsibility for child rearing and housework; as such, women may be pressured to take mobility opportunities that do not significantly impact or disrupt their life. But women are also more likely to be mobile than men, which is interpreted as women facing discriminatory practices in institutions, forcing them to be more mobile to search for opportunities. Thus, by analyzing the short-term visits of researchers, the authors reveal differences between men and women researching in Andalusia, and particularly provide evidence to the different pressures that affect them.  
+
+
+### Cañibano, C., Otamendi, J., & Andújar, I. (2008). Measuring and assessing researcher mobility from CV analysis: the case of the Ramón y Cajal programme in Spain. Research Evaluation, 17(1), 17–31. https://doi.org/10.3152/095820208X292797
+
+Cañibano, Otamendi, & Andujar (2008)
+
+**Tags:** CV; Spain
+
+The authors examine 1,711 standardized CVs submitted in 2005 by applicants to the Spanish Ramón y Cajal funding program, which seeks to incorporate doctoral holders into national research systems. The CVs are partitioned into Physics and Space Science, Molecular Biology, and Philosophy and Philology. Researchers are manually coded to differentiate short-, medium-, and long-term research stays, as well as country and “center” or “inter-institutional” mobility. 
+
+The authors found:
+
+- Little age difference (likely because the program targets young-career researchers), that there are 
+- That there stark “mobility cultures” between disciplines: Physics and Space Sciences as the most mobile, while Molecular Biology is the least.  
+- Productivity clusters, wherein humanists publish far more books and articles without ISSNs, while molecular biologics produce less than the physical sciences. 
+- No positive relationship between mobility and research performance, contradicting intuition and the views of policy makers. In fact, the authors found that for molecular biologists, there is a negative relationship. 
 
 ### Chessa, A., Morescalchi, A., Pammolli, F., Penner, O., Petersen, A. M., & Riccaboni, M. (2013). Is Europe Evolving Toward an Integrated Research Area? Science, 339(6120), 650–651. https://doi.org/10.1126/science.1227970
 
