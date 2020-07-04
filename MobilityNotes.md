@@ -3,6 +3,51 @@
 ---
 ## |A|
 
+### Ackers, L. (2008). Internationalisation, Mobility and Metrics: A New Form of Indirect Discrimination? Minerva, 46(4), 411–435. https://doi.org/10.1007/s11024-008-9110-2
+
+Ackers (2008)
+
+**Tags:** Discrimination; Mobility; Metrics; Europe; Social Science
+
+Fidnigs from an online survey are used to assess European social scientist's feelings on mobility. In Europe, mobility is seen as universally beneficial, and is sometimes required for career, becoming yet another evaluative metric. Ackers shows that mobility is a far more complex phenomenon than previously believed. 
+- Not all mobility is beneficial for the applicant, and sometimes the need to appear “mobile” or “international” will lead a researcher to pursue low-quality research visits and stays with little benefit
+- Mobility as a metric can  be discriminatory, both to discipline and personal life style: if one’s research is qualitative and reliant on a local sociological or anthropological context, then mobility that distances them from that context may offer no benefit to the researcher. 
+- Those with financial constraints, families, and disabilities may find it impossible to be mobile to the extent often required for their career
+- The financial cost could be greater for long-term research visits, often seen as necessary, although some responses reveal that short-term research visits combined with virtual mobility and collaboration work just as well. 
+
+Overall, this study takes a decidedly human approach to understand the issues and nuances of mobility, and how care must be taken when introducing it as a metric.  
+
+
+### Albarrán, P., Carrasco, R., & Ruiz-Castillo, J. (2017). Geographic mobility and research productivity in a selection of top world economics departments. Scientometrics, 111(1), 241–265. https://doi.org/10.1007/s11192-017-2245-x
+
+Albarrán, Carrasco, & Ruiz-Castillo (2017)
+
+**Tags:** Economics; Elite; Categroies; Brain Drain; Brain Circulation
+
+This paper analyzes the career mobility of economists who were then-working at the top economics departments in the world. The particular contribution is the delineation between three different types of mobility: 
+
+- **stayers:**, those who have never left their country or origin, 
+- **brain drain:** who have left their home country and were still working abroad, 
+- **brain circulation:** those who left their home country and then returned. 
+
+Departments were selected by examining publications to economics research journals that were ranked in 2003, and then data was collected from the web pages of these departments in 2007. 
+- This population of researchers was highly productive but also highly skewed (with a minority of researcher publishing the most in the top-tier journals). 
+- Most researchers currently working in these top departments also came from top departments. 
+
+The main contributions of this paper are a better understanding of elite mobility, and also analysis of the different types of mobility. 
+
+
+### Allison, P. D., & Long, J. S. (1987). Interuniversity Mobility of Academic Scientists. American Sociological Review, 52(5), 643–652. https://doi.org/10.2307/2095600
+
+Allison & Long (1987)
+
+**Tags:** Mobility; Historical; 
+
+Robert Merton originally stated that science should be universalistic, requiring that scientific careers be open to talent and those who best fulfilled their roles, but many challenge that in reality science is not universalistic, and that the prestige of the academic department and advisor granting the doctorate are more important than scientific performance. 
+
+This paper tests this assumption by following 274 job changes by unique 242 scientists (roughly equal proportions of biologists, physicists, chemists, and mathematicians) at one academic institution between 1961 and 1975, and find that **“to obtain a prestigious job, it is more effective to get a degree at a top-rated graduate program than to be extremely productive**. “ They also find that while the number of articles an applicant has is important to prestige mobility, the number of citations is not, although the number of citations do prove to be important for promotions in rank when changing jobs. While Merton calls for the ideal of universalism, at the time of his paper’s publication, the ideal appears distant. 
+
+
 ### Appelt, S., Beuzekom, B. van, Galindo-Rueda, F., & Pinho, R. de. (2015). Which factors influence the international mobility of research scientists? https://doi.org/10.1787/5js1tmrr2233-en
 
 
@@ -55,6 +100,34 @@ Investigates how "post-doctoral" mobility among German Economics nad Management 
 
 - "Mobile researchers with more social ties in the form of coauthors or colleagues at the doctorate granting institution publish less in the years following the doctorate, than their less connected counterparts"
 - "With respect to implications of the findings, mobility seems to cause a loss of social capital, which—somewhat surprisingly—not only relates to aresearcher’s weak ties (colleagues), but also to the strong ones, i.e. coauthors. Apparently, coauthorships are still driven by proximity, even given the advances in technology."
+
+
+### Baruffaldi, S. H., & Landoni, P. (2012). Return mobility and scientific productivity of researchers working abroad: The role of home country linkages. Research Policy, 41(9), 1655–1665. https://doi.org/10.1016/j.respol.2012.04.005
+
+Baraffaldi & Landoni (2012)
+
+**Tags:** Return; Productivity; Brain Circulation
+
+The study is based on a questionarie sent to foreign researchers in Italty and Portugal. 
+
+Controlling for factors such as age and research area, this paper examines the mobility of 497 foreign researchers in Italy and Portugal and finds that the presence of home-linkages benefits both sending and receiving country and indirectly expands scientific networks. For migrant scientists, social linkages back to their home countries, such as collaborations with businesses or colleagues in their origin country, or specialized online social networks, can increase a scientist’s productivity, and probability or returning home. 
+
+But the authors also conclude that mobility is not always positive, stating that especially when job opportunities in their home country are few, return is unlikely.  The findings favor policies focused on the creation of networks among mobile researchers and their countries of origin, especially involvement in diaspora networks and professional associations, which appear to have the largest impact on the probability of return.
+
+
+### Børing, P., Flanagan, K., Gagliardi, D., Kaloudis, A., & Karakasidou, A. (2015). International mobility: Findings from a survey of researchers in the EU. Science and Public Policy, 42(6), 811–826. https://doi.org/10.1093/scipol/scv006
+
+Børing et al., (2015)
+
+**Tags:**
+
+The authors survey European researchers employed both by universities and research institution settings about their history and perceptions of mobility. Findings include:
+
+- mobility is a fact of life for most European researchers
+- research visits (short-term stays) are the most common form of mobility
+- students participating in international collaboration are more likely to be mobile during their career
+- A majority of researchers in both universities and non-university settings believed that mobility would benefit a researcher’s career, even by those who have never been mobile. T
+- Men are proportionally more likely to be mobile 
 
 
 ### Box, S., & Barsi, E. (2008). The Global Competition for Talent: Mobility of the Highly Skilled. OECD. 
