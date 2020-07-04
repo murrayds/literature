@@ -33,7 +33,7 @@ The main takeaways are:
 - The notion of "super movers" or "peripatetic" scholars, the word derived from Aritotle's school. 
 
 
-## Armano, G., & Javarone, M. A. (2017). The Beneficial Role of Mobility for the Emergence of Innovation. Scientific Reports, 7. https://doi.org/10.1038/s41598-017-01955-2
+### Armano, G., & Javarone, M. A. (2017). The Beneficial Role of Mobility for the Emergence of Innovation. Scientific Reports, 7. https://doi.org/10.1038/s41598-017-01955-2
 
 Armano et al. 2017
 
@@ -55,7 +55,6 @@ Investigates how "post-doctoral" mobility among German Economics nad Management 
 
 - "Mobile researchers with more social ties in the form of coauthors or colleagues at the doctorate granting institution publish less in the years following the doctorate, than their less connected counterparts"
 - "With respect to implications of the findings, mobility seems to cause a loss of social capital, which—somewhat surprisingly—not only relates to aresearcher’s weak ties (colleagues), but also to the strong ones, i.e. coauthors. Apparently, coauthorships are still driven by proximity, even given the advances in technology."
-
 
 
 ### Box, S., & Barsi, E. (2008). The Global Competition for Talent: Mobility of the Highly Skilled. OECD. 
