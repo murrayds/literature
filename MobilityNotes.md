@@ -45,6 +45,19 @@ The authors build a numerical simulation model based around innovation, and thro
 ---
 ## |B|
 
+### Bäker, A. (2015). Non-tenured post-doctoral researchers’ job mobility and research output: An analysis of the role of research discipline, department size, and coauthors. Research Policy, 44(3), 634–650. https://doi.org/10.1016/j.respol.2014.12.012
+
+Bäker, 2015
+
+**Tags:** Domestic; Mobility; Production
+
+Investigates how "post-doctoral" mobility among German Economics nad Management faculty, that is, institutions held between their PhD-granting and employer institutions, affects publication. Finds evidence that moving univeristies in PostDoc reduces number of publications. This is attributed to a loss in social capital, in temrs of colleagues and collaborators, during the move. This paper exmaines only within-country mobility for German scholars. Also of note: many german universities tacitly require this post-doctoral period. 
+
+- "Mobile researchers with more social ties in the form of coauthors or colleagues at the doctorate granting institution publish less in the years following the doctorate, than their less connected counterparts"
+- "With respect to implications of the findings, mobility seems to cause a loss of social capital, which—somewhat surprisingly—not only relates to aresearcher’s weak ties (colleagues), but also to the strong ones, i.e. coauthors. Apparently, coauthorships are still driven by proximity, even given the advances in technology."
+
+
+
 ### Box, S., & Barsi, E. (2008). The Global Competition for Talent: Mobility of the Highly Skilled. OECD. 
 
 Box & Barsi, 2008
@@ -74,6 +87,13 @@ I haven't read the full report, but the executive summary lays out the following
 
 ---
 ## |C|
+
+### Chessa, A., Morescalchi, A., Pammolli, F., Penner, O., Petersen, A. M., & Riccaboni, M. (2013). Is Europe Evolving Toward an Integrated Research Area? Science, 339(6120), 650–651. https://doi.org/10.1126/science.1227970
+
+Chessa et al., 2013
+
+Can be sumamrized as: "Despite efforts to integrate across borders, Europe remains a collection of national innovation systems."
+
 
 ### Czaika, M., & Orazbayev, S. (2018). The globalisation of scientific mobility, 1970–2014. Applied Geography, 96, 1–10.
 
@@ -162,47 +182,10 @@ Kerr & Lincoln (2010)
 The authors examine the extent to which fluctuations in the H-1B visa cap between 1995 and 2008 relates to the incidence of patenting among those with Chinese and Indian family names in U.S. cities. They find that immigrants are especially important for U.S. innovation. Fluctuations in H-1B admissions significantly influenced the rate of Indian and Chinese patentintg in cities, relative to their peers. Total invention increased with higher H-1B admissions primarily through the contributions of immigrant inventors. 
 
 
+---
+## |P|
 
-
-
-
-## Non-tenured post-doctoral researchers’ job mobility and research output: An analysis of the role of research discipline, department size, and coauthors
-
-Baker, 2015
-
-**Tags:** Domestic; Mobility; Production
-
-Investigates how "post-doctoral" mobility among German Economics nad Management faculty, that is, institutions held between their PhD-granting and employer institutions, affects publication. Finds evidence that moving univeristies in PostDoc reduces number of publications. This is attributed to a loss in social capital, in temrs of colleagues and collaborators, during the move. This paper exmaines only within-country mobility for German scholars. Also of note: many german universities tacitly require this post-doctoral period. 
-
-- "Mobile researchers with more social ties in the form of coauthors or colleagues at the doctorate granting institution publish less in the years following the doctorate, than their less connected counterparts"
-- "With respect to implications of the findings, mobility seems to cause a loss of social capital, which—somewhat surprisingly—not only relates to aresearcher’s weak ties (colleagues), but also to the strong ones, i.e. coauthors. Apparently, coauthorships are still driven by proximity, even given the advances in technology."
-
-
-## Is Europe Evolving Toward an Integrated Research Area?
-
-Chessa et al., 2013
-
-Can be sumamrized as: "Despite efforts to integrate across borders, Europe remains a collection of national innovation systems."
-
-
-## The Mobility Network of Scientists: Analyzing Temporal Correlations in Scientific Careers
-
-Vaccario, Verginer, & Schweitzer 2018
-
-The authors measure the flow of researchers between institutions, cities, and countries, to assess the strength of collaborative relationships.
-
-This is actually very similar to what I am proposing, however, this paper also has several limitations that I think we can build upon.
-
-    The authors define career trajectories, choosing cities in the case when multiple are present. This assumption does not fit with notions of mobility, which is more circulation than flow.
-    The authors use the Medline dataset, which limits their disciplinary focus to biomedical fields
-    The authors focus on small subsets of universities/cities
-    The authors make measurements based on shortest path distance and trajectories, but this might not be straightforward. For example, if the U.S. U.K. and Japan are connected by a distance of 1, are their relationships really equal?
-    The authors have no way to effectively compare between scales or identify deviating examples. I.e., its difficult to calculate a "center" in a graph structure to calculate distance from. We, however, can do this.
-    The authors do not have a good means of comparing changes over time
-
-
-
-## Multiscale impact of research mobility
+### Petersen, A. M. (2018). Multiscale impact of researcher mobility. Journal of The Royal Society Interface, 15(146), 20180580. https://doi.org/10.1098/rsif.2018.0580
 
 Petersen, 2018
 
@@ -215,6 +198,27 @@ Other interesting bits:
 - "We also fonud that 34% of the mobile researchers in our analysis moved to a location that was not in their sphere of prior collaborations"
 - "In this way, migration affords a prime opportunity to phase our old (possibly stagnant) collabroations and research topics in order to make way for exploring new (potentially lucrative) avenues."
 - "A hypothetical mechamism that emerges firectly from our analysis of the research diveristy variables is that mobility increases the likelihood of drawing together different intellectual cpacities and professional experience distributed across researchers, which when combined provide a valuable perspective on how to best advance research efforts"
+
+
+---
+## |V|
+
+### Vaccario, G., Verginer, L., & Schweitzer, F. (2019). The Mobility Network of Scientists: Analyzing Temporal Correlations in Scientific Careers. ArXiv:1905.06142 [Physics]. http://arxiv.org/abs/1905.06142
+
+Vaccario, Verginer, & Schweitzer 2018
+
+**Tags:** network; temporal; multi-level; institutions
+
+The authors measure the flow of researchers between institutions, cities, and countries, to assess the strength of collaborative relationships.
+
+This is actually very similar to what I am proposing, however, this paper also has several limitations that I think we can build upon.
+
+- The authors define career trajectories, choosing cities in the case when multiple are present. This assumption does not fit with notions of mobility, which is more circulation than flow.
+- The authors use the Medline dataset, which limits their disciplinary focus to biomedical fields
+- The authors focus on small subsets of universities/cities
+- The authors make measurements based on shortest path distance and trajectories, but this might not be straightforward. For example, if the U.S. U.K. and Japan are connected by a distance of 1, are their relationships really equal?
+- The authors have no way to effectively compare between scales or identify deviating examples. I.e., its difficult to calculate a "center" in a graph structure to calculate distance from. We, however, can do this.
+- The authors do not have a good means of comparing changes over time
 
 ---
 ## |Q|
