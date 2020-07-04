@@ -1,46 +1,51 @@
 # Mobility Notes
 
+---
+## |A|
 
-## Zhang, L., Powell, J. J. W., & Baker, D. P. (2015). Exponential Growth and the Shifting Global Center of Gravity of Science Production, 1900–2011. Change: The Magazine of Higher Learning, 47(4), 46–49. https://doi.org/10.1080/00091383.2015.1053777
-
-Zhang, Powell, & Baker (2015)
-
-**Tags:** Science; China; Gravity; Temporal
-
-The authors look at scientific production based on country, and calculate the temporal center of gravity of publications from 1900 to 2010. ARound 1900, the center was much nearer to the U.S., however over the decades this has shifted to instead sit somewhere in the Mediterranean. 
-
-The paper mostly works as a brief historical piece, tracking the changing dynamics of scientific production over the century. They also remark on the exponetnial growth in scientific articles, which they attribute to the importance of science worldwide. 
-
-## Quah, D. (2011). The Global Economy’s Shifting Centre of Gravity. Global Policy, 2(1), 3–9. https://doi.org/10.1111/j.1758-5899.2010.00066.x
-
-Quah, 2011
-
-**Tags:** Economics; China; Asia; Temporal; Gravity
-
-The global economic center of gravity is shifting eastwards, towards China. Projected forward in time, it will eventually sit at the "flat earth" center, meaning that it will match the population center of the world. This paper lays out the approach for calculating economic geographic centers of gravity.
+### Appelt, S., Beuzekom, B. van, Galindo-Rueda, F., & Pinho, R. de. (2015). Which factors influence the international mobility of research scientists? https://doi.org/10.1787/5js1tmrr2233-en
 
 
-## Kerr, W. R., & Lincoln, W. F. (2010). The Supply Side of Innovation: H-1B Visa Reforms and US Ethnic Invention (Working Paper No. 15768; Working Paper Series). National Bureau of Economic Research.
+Appelt et al.,
 
-Kerr & Lincoln (2010)
+**Tags:**  Bibliometrics, Mobility
 
-**Tags:** Visa; H-1B; Innovation; Pantenting; Highly-skilled
+The authors of this OECD report examine what country-level factors influence the flow of researchers across countires, using bibliometric data. Their main findings are:
 
-The authors examine the extent to which fluctuations in the H-1B visa cap between 1995 and 2008 relates to the incidence of patenting among those with Chinese and Indian family names in U.S. cities. They find that immigrants are especially important for U.S. innovation. Fluctuations in H-1B admissions significantly influenced the rate of Indian and Chinese patentintg in cities, relative to their peers. Total invention increased with higher H-1B admissions primarily through the contributions of immigrant inventors. 
+- Mobility is complicated, better understood as "brain circulation" than as "brain grain/drain"
+- Visa restrictions between countires are associated with less mobility
+- Mobility also related to economic conditions—similar economies tend to have more shared mobility
 
 
-## Kerr, W. (2018). America, don’t throw global talent away. Nature, 563(7732), 445–445.
+### Aref, S., Zagheni, E., & West, J. (2019). The Demography of the Peripatetic Researcher: Evidence on Highly Mobile Scholars from the Web of Science. In I. Weber, K. M. Darwish, C. Wagner, E. Zagheni, L. Nelson, S. Aref, & F. Flöck (Eds.), Social Informatics (pp. 50–65). Springer International Publishing. https://doi.org/10.1007/978-3-030-34971-4_4
 
-Kerr, 2018
+Aref et al., 2019
 
-**Tags:** Popular; Mobility; Highly-skilled
+**Tags:** Demography, Mobility, Bibliometrics
 
-A short popular-oriented piece arguing that trends in the U.S. fortell losing its advantage in attracting highly-skilled migrants. Since 2016, there are fewer H1-B applicants and fewer postgraduate applicants. Kerr argues these are in part due to:
-- hostile political rhetoric
-- Outdated and insufficient immigration systems
-- Other barrier smaking it harder to establish businesses
+The authors do a simple bibliometric analysis of "highly-mobile" researchers, those that have been affiliated within at least 3 countries during the period of study. They observe the emergence of the US and China as two large hubs, followered by Germany and France as two smaller hubs for highly mobile researchers. 
 
-## Box, S., & Barsi, E. (2008). The Global Competition for Talent: Mobility of the Highly Skilled. OECD. 
+I don't really like this paper—they don't really add anything new. Plus, they have a lot of discussion about so-called "super-movers", but don't offer any comparisons to non-mobile or regularly-mobile scholars, meaning that we don't know what is unique to this population. 
+
+The main takeaways are:
+- brain circulation a better fit than drain/gain
+- US and China have emerged as hubs
+- The notion of "super movers" or "peripatetic" scholars, the word derived from Aritotle's school. 
+
+
+## Armano, G., & Javarone, M. A. (2017). The Beneficial Role of Mobility for the Emergence of Innovation. Scientific Reports, 7. https://doi.org/10.1038/s41598-017-01955-2
+
+Armano et al. 2017
+
+**Tags:** Simulation; Modelling; Mobility; Innovation; Implications
+
+The authors build a numerical simulation model based around innovation, and through running it find that "mobility" between groups tends to lead to invreased innovation. They however do not confirm this model with real data, and so it is difficult to do much with this paper except cite it as another example of how mobility is beneficial for innovation
+
+
+---
+## |B|
+
+### Box, S., & Barsi, E. (2008). The Global Competition for Talent: Mobility of the Highly Skilled. OECD. 
 
 Box & Barsi, 2008
 
@@ -67,22 +72,10 @@ I haven't read the full report, but the executive summary lays out the following
 - Removing barriers to circular mobility and fostering the diaspora may prove fruitful. Shorter (and potentially repeated) periodsabroad  may avoid some of the obstacles that currently hinder mobility,  and would support knowledge flows associated with brain circulation and  the diaspora
 - The growing competition for talent is growing. Many OECD countries  and a growing range of non-member economies aim to attract the same pool of highly skilled researchersand scientists. Relying  extensively on international flows and mobility policies to fill  existing or future gaps in supply may therefore entail risks. Policy will also need to focus on addressing shortcomings in national policiesthat may limit the supply of HRST. 
 
-## Freeman, R. B. (2006). Does Globalization of the Scientific/Engineering Workforce Threaten U.S. Economic Leadership? Innovation Policy and the Economy, 6, 123–157.
+---
+## |C|
 
-Freeman, 2006
-
-This report from 2006 authored by Richard Freeman, a famous Harvard economist, details four propositions about the state of the globalizing scientific system adn its impats on the U.S.,
-
-1. The U.S. is profucing fewer S&E graduates, and its global share is decreasing rapidly as European and Asian countires, especially China, educate more 
-2. The job market has worsened for U.S. workers in S&E fields relative to other occupations, discouraging students from pusruing these degrees. The lack of U.S. S&E graduates has partially been mitigated by a flow of foreign scientists.
-3. Populous and (then) low-income countires can compete with the U.S. by producing numerous graduates, even if only a small share of their populations. This could upend global trade and industrial dynamics
-4. The United State's comparaing advantage in high-tech is diminishing, which will create a long period of adjustment for U.S. workers
-
-The author calls for new workforce policies to help the U.S. in this transition, policies that build on local strenghts and benefit from the scientific achievemnets of other countries. The main tool the U.S. gov has is R&D spending
-
-
-
-## Czaika, M., & Orazbayev, S. (2018). The globalisation of scientific mobility, 1970–2014. Applied Geography, 96, 1–10.
+### Czaika, M., & Orazbayev, S. (2018). The globalisation of scientific mobility, 1970–2014. Applied Geography, 96, 1–10.
 
 Czaika & Orazbayev, 2018
 
@@ -100,7 +93,7 @@ Other than that, this paper has really pretty circle graphs and notes that while
 - The proportion with mobility in the past decade has been about 9%
 
 
-## Czaika, M., de Haas, H., & Villares‐Varela, M. (2018). The Global Evolution of Travel Visa Regimes. Population and Development Review, 44(3), 589–622.
+### Czaika, M., de Haas, H., & Villares‐Varela, M. (2018). The Global Evolution of Travel Visa Regimes. Population and Development Review, 44(3), 589–622.
 
 Czaika, de Haas, & Villares-Varela (2018)
 
@@ -129,45 +122,49 @@ There are also several miscelenous points made about visas and their reasonoings
 - Visas can refelct power asymetries, i.e., if country X imposes visas on country Y, but not the reverse, than country X probably has more political and economic power over country Y
   - This is illustrated in the paper using the cases of the Netherlands, France, and Morocco
 
+---
+## |F|
 
-## The Demography of the Peripatetic Researcher: Evidence on Highly Mobile Scholars from the Web of Science
+### Freeman, R. B. (2006). Does Globalization of the Scientific/Engineering Workforce Threaten U.S. Economic Leadership? Innovation Policy and the Economy, 6, 123–157.
 
-Aref et al., 2019
+Freeman, 2006
 
-**Tags:** Demography, Mobility, Bibliometrics
+This report from 2006 authored by Richard Freeman, a famous Harvard economist, details four propositions about the state of the globalizing scientific system adn its impats on the U.S.,
 
+1. The U.S. is profucing fewer S&E graduates, and its global share is decreasing rapidly as European and Asian countires, especially China, educate more 
+2. The job market has worsened for U.S. workers in S&E fields relative to other occupations, discouraging students from pusruing these degrees. The lack of U.S. S&E graduates has partially been mitigated by a flow of foreign scientists.
+3. Populous and (then) low-income countires can compete with the U.S. by producing numerous graduates, even if only a small share of their populations. This could upend global trade and industrial dynamics
+4. The United State's comparaing advantage in high-tech is diminishing, which will create a long period of adjustment for U.S. workers
 
-The authors do a simple bibliometric analysis of "highly-mobile" researchers, those that have been affiliated within at least 3 countries during the period of study. They observe the emergence of the US and China as two large hubs, followered by Germany and France as two smaller hubs for highly mobile researchers. 
-
-I don't really like this paper—they don't really add anything new. Plus, they have a lot of discussion about so-called "super-movers", but don't offer any comparisons to non-mobile or regularly-mobile scholars, meaning that we don't know what is unique to this population. 
-
-The main takeaways are:
-- brain circulation a better fit than drain/gain
-- US and China have emerged as hubs
-- The notion of "super movers" or "peripatetic" scholars, the word derived from Aritotle's school. 
-
-
-## The Beneficial Role of Mobility for the Emergence of Innovation
-
-Armano et al. 2017
-
-**Tags:** Simulation; Modelling; Mobility; Innovation; Implications
-
-The authors build a numerical simulation model based around innovation, and through running it find that "mobility" between groups tends to lead to invreased innovation. They however do not confirm this model with real data, and so it is difficult to do much with this paper except cite it as another example of how mobility is beneficial for innovation
+The author calls for new workforce policies to help the U.S. in this transition, policies that build on local strenghts and benefit from the scientific achievemnets of other countries. The main tool the U.S. gov has is R&D spending
 
 
+---
+## |K|
 
-## Which factors influence the international mobility of research scientists?
+### Kerr, W. (2018). America, don’t throw global talent away. Nature, 563(7732), 445–445.
 
-Appelt et al.,
+Kerr, 2018
 
-**Tags:**  Bibliometrics, Mobility
+**Tags:** Popular; Mobility; Highly-skilled
 
-The authors of this OECD report examine what country-level factors influence the flow of researchers across countires, using bibliometric data. Their main findings are:
+A short popular-oriented piece arguing that trends in the U.S. fortell losing its advantage in attracting highly-skilled migrants. Since 2016, there are fewer H1-B applicants and fewer postgraduate applicants. Kerr argues these are in part due to:
+- hostile political rhetoric
+- Outdated and insufficient immigration systems
+- Other barrier smaking it harder to establish businesses
 
-- Mobility is complicated, better understood as "brain circulation" than as "brain grain/drain"
-- Visa restrictions between countires are associated with less mobility
-- Mobility also related to economic conditions—similar economies tend to have more shared mobility
+### Kerr, W. R., & Lincoln, W. F. (2010). The Supply Side of Innovation: H-1B Visa Reforms and US Ethnic Invention (Working Paper No. 15768; Working Paper Series). National Bureau of Economic Research.
+
+Kerr & Lincoln (2010)
+
+**Tags:** Visa; H-1B; Innovation; Pantenting; Highly-skilled
+
+The authors examine the extent to which fluctuations in the H-1B visa cap between 1995 and 2008 relates to the incidence of patenting among those with Chinese and Indian family names in U.S. cities. They find that immigrants are especially important for U.S. innovation. Fluctuations in H-1B admissions significantly influenced the rate of Indian and Chinese patentintg in cities, relative to their peers. Total invention increased with higher H-1B admissions primarily through the contributions of immigrant inventors. 
+
+
+
+
+
 
 ## Non-tenured post-doctoral researchers’ job mobility and research output: An analysis of the role of research discipline, department size, and coauthors
 
@@ -218,3 +215,28 @@ Other interesting bits:
 - "We also fonud that 34% of the mobile researchers in our analysis moved to a location that was not in their sphere of prior collaborations"
 - "In this way, migration affords a prime opportunity to phase our old (possibly stagnant) collabroations and research topics in order to make way for exploring new (potentially lucrative) avenues."
 - "A hypothetical mechamism that emerges firectly from our analysis of the research diveristy variables is that mobility increases the likelihood of drawing together different intellectual cpacities and professional experience distributed across researchers, which when combined provide a valuable perspective on how to best advance research efforts"
+
+---
+## |Q|
+
+### Quah, D. (2011). The Global Economy’s Shifting Centre of Gravity. Global Policy, 2(1), 3–9. https://doi.org/10.1111/j.1758-5899.2010.00066.x
+
+Quah, 2011
+
+**Tags:** Economics; China; Asia; Temporal; Gravity
+
+The global economic center of gravity is shifting eastwards, towards China. Projected forward in time, it will eventually sit at the "flat earth" center, meaning that it will match the population center of the world. This paper lays out the approach for calculating economic geographic centers of gravity.
+
+
+---
+## |Z| 
+
+### Zhang, L., Powell, J. J. W., & Baker, D. P. (2015). Exponential Growth and the Shifting Global Center of Gravity of Science Production, 1900–2011. Change: The Magazine of Higher Learning, 47(4), 46–49. https://doi.org/10.1080/00091383.2015.1053777
+
+Zhang, Powell, & Baker (2015)
+
+**Tags:** Science; China; Gravity; Temporal
+
+The authors look at scientific production based on country, and calculate the temporal center of gravity of publications from 1900 to 2010. ARound 1900, the center was much nearer to the U.S., however over the decades this has shifted to instead sit somewhere in the Mediterranean. 
+
+The paper mostly works as a brief historical piece, tracking the changing dynamics of scientific production over the century. They also remark on the exponetnial growth in scientific articles, which they attribute to the importance of science worldwide. 
