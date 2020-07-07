@@ -3,6 +3,21 @@
 ---
 ## |A|
 
+### Abel, G. J., & Sander, N. (2014). Quantifying Global International Migration Flows. Science, 343(6178), 1520–1522. https://doi.org/10.1126/science.1248676
+
+Abel & Sander (2014)
+
+**Tags:** Migration; General; Temporal; Stocks; Flows
+
+The authors derive values quantifying migration 'flow' between countries from the data of migrant stocks in 196 countires collected by the UN between 1990 and 2010. The amount and nature of migration has changed drastically over the course of this period, decreasing in the 1990-2000 period due to the ending of several armed conflicts and crises. Specific findings include:
+
+- African migrants in Sub-Saharan Africa primarily migrate within the continent
+- Migration flows originating in Asia and South America tended to be more sptially focused than were flows out of Europe
+- Almost all the largest flows occured within or to neighboring regions, though some stand out, such as flows between South Asia to North America and from South America to Southern Europe. 
+
+The primary contribution of this paper is mostly methodological—they propose a means of understanding global migration flows based on changes in migration stock data. 
+
+
 ### Ackers, L. (2008). Internationalisation, Mobility and Metrics: A New Form of Indirect Discrimination? Minerva, 46(4), 411–435. https://doi.org/10.1007/s11024-008-9110-2
 
 Ackers (2008)
@@ -48,6 +63,51 @@ Robert Merton originally stated that science should be universalistic, requiring
 This paper tests this assumption by following 274 job changes by unique 242 scientists (roughly equal proportions of biologists, physicists, chemists, and mathematicians) at one academic institution between 1961 and 1975, and find that **“to obtain a prestigious job, it is more effective to get a degree at a top-rated graduate program than to be extremely productive**. “ They also find that while the number of articles an applicant has is important to prestige mobility, the number of citations is not, although the number of citations do prove to be important for promotions in rank when changing jobs. While Merton calls for the ideal of universalism, at the time of his paper’s publication, the ideal appears distant. 
 
 
+### Altbach, P. G., & Knight, J. (2007). The Internationalization of Higher Education: Motivations and Realities. Journal of Studies in International Education, 11(3–4), 290–305. https://doi.org/10.1177/1028315307303542
+
+Altbach & Knight (2007)
+
+**Tags:** globalization; univeristy; international
+
+The auhtors discuss the internationalization of univeristies, detailing at length examples of international initiatives, policies, and partnerships by continent. Univeristies have been globalizing, and this has meant that they have also been internationalizing.
+- Motives to internationalize include profits, providing wider access to education, providing international cross-cultural perspectives to students, encouraging political integration (as with the EU), improving the quality, prestige, and cultural composition of programs (mostly with developing countires), and the demands of individual self-funded students seeking cross-cultural experiences
+- Virtually all countries have international programs of some form, though the biggest "sellers" are by far North America and Europe. 
+
+Useful quotes:
+- "Globalization tends to concentrate wealth, knowledge, and power in those already possessing these elements. International academic mobility similarly favors well-developed education systems and institutions, thereby compounding existing inequalities"
+- "Universities have been international institutions from their medieval European origins, attracting students and faculty from many countries. The rise of nationalism and the nation-state after the Protestant Reformation focused academe inward. Later, the emergence of the Third World from colonialism in the mid-20th century stimulated the establishment of national universities. Now academe has regained its international scope and direction. Internationalization is propelled by IT, the knowledge economy, an integrated world economy, and increased mobility for students, faculty, programs, and providers"
+
+
+### Altbach, P. G. (2004). Globalisation and the university: Myths and realities in an unequal world. Tertiary Education and Management, 10(1), 3–25. https://doi.org/10.1080/13583883.2004.9967114
+
+Altbach (2004)
+
+**Tags:** Globalization; Univeristy; Inequality; Developing
+
+Key terms:
+- Globalization: The economic, technologiycal, and scientific trends that directly affect higher education and are largely innevitable. 
+- Internationalization: includes specific programs and policies taken up by governments, institutions, and departments in order to cope with and exploit globalization
+- Multinationalism: Academic programs from one country offered in another (think NYU Abu Dhabi)
+
+
+The author discusses several aspects of the globalization of universtities, arguing that nothing about it is new, but that the increase international scope of universties will further existing inequalities. Specifically, the author points to:
+- Universities having always been international in scope
+- Students have always traveled abroad to study
+- Globalization cannot be avoided—universiteis that shut themselves from changing society innevitably lose relevance
+- Powerful universities have always dominated the production and diffusion of knowledge—lower institutions have followed
+- Top academic instititoons require huge amounts of capital, for buildings, salaries, equiptment, and infrastructure—this high entry cost means that less-welathy institutions will struggle to compete 
+- English is the modal language for science and higher education, a trend that benefits  English-spealing countries
+- Migration, having awlays been central to academia, has increased in scope. Academics will take jobs in countries with more attractive opportunities, salaries and working conditions. At present, a small but significant exodus continues from the UK to the US and Canada because of the low salaries and deteriorating working conditions at home.
+- In multinational agreements, such as when a university in a developed country parnters with a university in the developing world to offer a program, the rich country almost always dominates
+- IT is central to globalization, and has helped increase the scope of university's globalization
+
+This paper also has some interesting early discussion on brain drain and brain circulation, talking about the benefits of migrants to receiving countires
+
+Useful quotes:
+- "From the beginning, universities represented global institutions – in that they functioned in a common language, Latin, and served an international clientele of students. Professors, too, came from many countries, and the knowledge imparted reflected scholarly learning in the Western world at the time."
+- "...some academics from South Korea and Taiwan, for example, returned from the United States or other countries to accept senior academic appointments in their home countries once academic working conditions, salaries and respect for academic freedom had improved. More commonly, academics return home for lectures or consulting, collaborate on research with colleagues in their country of origin, or accept visiting professorships."
+
+
 ### Appelt, S., Beuzekom, B. van, Galindo-Rueda, F., & Pinho, R. de. (2015). Which factors influence the international mobility of research scientists? https://doi.org/10.1787/5js1tmrr2233-en
 
 
@@ -87,6 +147,19 @@ Armano et al. 2017
 The authors build a numerical simulation model based around innovation, and through running it find that "mobility" between groups tends to lead to invreased innovation. They however do not confirm this model with real data, and so it is difficult to do much with this paper except cite it as another example of how mobility is beneficial for innovation
 
 
+### Azoulay, P., Ganguli, I., & Graff Zivin, J. (2017). The mobility of elite life scientists: Professional and personal determinants. Research Policy, 46(3), 573–590.
+
+Azoulay, Ganguli, & Graff Zivin (2017)
+
+**Tags:** Mobility; family; constraints; social capital; funding
+
+Using a set of over 10,000 career histories of elite life scientists, the authors investigate factors influencing their moves. Their main findings are:
+
+- Prolific scientsits are more likely to move
+- Moves are driven in part by how much the "quality" of the peer network improves, i.e., if the scientist will move to stronger/more prestigious places
+- Elite life scientists are less likely to move when they have been awarded a NIH grant due to the costs in transferring it between institutions
+- Family is important—scientsits are less likely to move just before or while they have a child in high school, the period of childhood when moves would lead to the most disruption
+
 ---
 ## |B|
 
@@ -100,6 +173,24 @@ Investigates how "post-doctoral" mobility among German Economics nad Management 
 
 - "Mobile researchers with more social ties in the form of coauthors or colleagues at the doctorate granting institution publish less in the years following the doctorate, than their less connected counterparts"
 - "With respect to implications of the findings, mobility seems to cause a loss of social capital, which—somewhat surprisingly—not only relates to aresearcher’s weak ties (colleagues), but also to the strong ones, i.e. coauthors. Apparently, coauthorships are still driven by proximity, even given the advances in technology."
+
+### Bauder, H. (2015). The International Mobility of Academics: A Labour Market Perspective. International Migration, 53(1), 83–96. https://doi.org/10.1111/j.1468-2435.2012.00783.x
+
+Bauder (2015)
+
+**Tags:** Mobility; Labor Market; Theory
+
+A detailed theoretical discussion is provided conceptualizing academic mobility through a labour market perspective. the author provides three main conclusions:
+
+- Academia operates as a separate and distinct labor market from other high-skilled professions. It has its own structures and practices of mobility, supprt from national, supranational, and institutional infrastructure, a habitus that valorized mobility, and opportunities to accumulate human and social capital through mobility
+- Mobility is generally seen as an advantage by academics, offering the chance to accumulate social capital and improve ones competativeness in the academic job market. In particular, short-term and transnational mobility can increase the value of their labor. Women, however, experience limited mobility. Also, mobility might not always be an advantage, as it might remove academics from more local career opportunities
+- Academic mobility is distinct from other labor market segments, but policies supporting academic mobility may have benefits for occupations such as entrepenuers and business people. But while academics are privelaged when it comes to mobility, there is also hardship—increased mobility can have negative impacts on individual's social networks and family. 
+
+
+Additionally, this paper makes several interesting points
+- Via a labor market persepctive, researchers can take a more critical view of academic mobility, focusing on its more negative aspects
+- Mobility is viewed as a normal, and perhaps expected fact of academic like. It is often valorized and viewed as a good thing. The author says that academia thus has a "habitus" of mobility. Stays in foreign countires expand networks and provides cross-national perspectives on science. 
+- In contrast to other sectors, mobility in academia is largely self-organized by the desires and career aspirations of individual academics hoping to network and expand their social space. 
 
 
 ### Baruffaldi, S. H., & Landoni, P. (2012). Return mobility and scientific productivity of researchers working abroad: The role of home country linkages. Research Policy, 41(9), 1655–1665. https://doi.org/10.1016/j.respol.2012.04.005
