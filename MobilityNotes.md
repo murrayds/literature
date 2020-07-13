@@ -146,6 +146,19 @@ Armano et al. 2017
 
 The authors build a numerical simulation model based around innovation, and through running it find that "mobility" between groups tends to lead to invreased innovation. They however do not confirm this model with real data, and so it is difficult to do much with this paper except cite it as another example of how mobility is beneficial for innovation
 
+## Auriol, L. (2010). Careers of Doctorate Holders: Employment and Mobility Patterns. https://doi.org/10.1787/5kmh8phxvvf5-en
+
+Autiol (2010)
+
+**Tags:** Mobility; Postdocs
+
+An OECD report outlining the demographics and mobility pattenrs of doctorate holders between 1998 and 2006. Their main findings are that:
+- More doctorate holders are being produced
+- While doctorate holders have an employment premium, they also face many challenges such as bad working conditions, low salaries, etc., which are compounded for women
+- The labor market of doctorate holders is more intenrational than other similarly-educated professions. 15-30% of holders reported mobility abroad in the past 10 years. 
+- Intra-european migrations dominates European mobility, especially towards the United Kingdom, France, and Germany
+- The other dominant pattern of mobility is from Asia to the United States, principally from China, India, and South korea
+- Many doctorate holders obtain a doctorate in their host country, whereas another large proportion obtains a doctorate in their home country, and moves afterwards
 
 ### Azoulay, P., Ganguli, I., & Graff Zivin, J. (2017). The mobility of elite life scientists: Professional and personal determinants. Research Policy, 46(3), 573–590.
 
@@ -219,6 +232,34 @@ The authors survey European researchers employed both by universities and resear
 - students participating in international collaboration are more likely to be mobile during their career
 - A majority of researchers in both universities and non-university settings believed that mobility would benefit a researcher’s career, even by those who have never been mobile. T
 - Men are proportionally more likely to be mobile 
+
+
+### Borjas, G. J. (2009). Immigration in High-Skill Labor Markets: The Impact of Foreign Students on the Earnings of Doctorates. Science and Engineering Careers in the United States: An Analysis of Markets and Employment, 131–161.
+
+Borjas (2009)
+
+**Tags:** Economics; Income; Wages; high-skilled; doctorate; postdoc
+
+The author examines how the incidence of immigrants over time relate to the wages of hired doctorate holders in the United States. Borjas finds that a 10% increase in High-Skilled immigrants correponds to a 3-4% decrease in wages, about half of which seems caused by more soft-money Post-Doc positions. The rest is assumed as stemming from a softening labor market. 
+
+
+### Borjas, G. J., & Doran, K. B. (2015). How High-Skill Immigration Affects Science: Evidence from the Collapse of the USSR. Innovation Policy and the Economy, 15, 1–25. https://doi.org/10.1086/680058
+
+Borjas & Doran (2015)
+
+**Tags:** Economics; Soviet; Mathematics; Productivity; Employment
+
+Using the collapse of the Soviet Union as a natural experiment, the authors examine the inpacts of the influx of soviet mathematicians into the U.S. labor market. 
+
+They find consistent evidence that American mathematicians did not experience large net beneficial productivity spillovers from the Soviets. Instead, American mathematicians voluntarily (and involuntarily) chose to work on different topics in response, and were crowded out from both the labor and publications market. Moreover, the total productivity of Mathematics as a field didn't increase, so the "pie" didn't grow. 
+
+### Borjas, G. J., & Doran, K. B. (2015). Cognitive Mobility: Labor Market Responses to Supply Shocks in the Space of Ideas. Journal of Labor Economics, 33(S1), S109–S145. https://doi.org/10.1086/676659
+
+Borjas & Doran (2015)
+
+**Tags:** Cognitive; Soviet; Mathematics
+
+Using the sudden migration of Soviet Mathematicians as a case study, the authors examine the "cognitive mobility" of U.S. mathematicians. They find that the "supply shock" of new Soviet mathematicians lead pre-existing U.S. mathemticians to relocate to topics that didn't have many soviet emigrants. Moreover, U.S. Mathematics graduates systematically avoided Soviet-dominated topics for 2 decade period following the Soviet influx.  
 
 
 ### Box, S., & Barsi, E. (2008). The Global Competition for Talent: Mobility of the Highly Skilled. OECD. 
