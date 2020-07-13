@@ -1,4 +1,4 @@
-## Abbott, A. (1999). Department and Discipline: Chicago Sociology at One Hundred (1 edition). University of Chicago Press.
+# Abbott, A. (1999). Department and Discipline: Chicago Sociology at One Hundred (1 edition). University of Chicago Press.
 
 **Tags:** Department; Sociology; Univeristy of Chicago; AJS
 
