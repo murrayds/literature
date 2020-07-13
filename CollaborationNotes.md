@@ -18,6 +18,28 @@ Focusing on Italian researchers between 2001 and 2005, this paper uses co-author
 There is a strong correlation between productivity and internationalization, and weaker correlation between intensity of international collaboration and average quality of an author’s papers. Physics shows the highest propensity for international collaboration. 
 
 
+### Adams, J. (2013). The fourth age of research. Nature, 497(7451), 557–560. https://doi.org/10.1038/497557a
+
+Adams (2013)
+
+**Tags:** Collaboration; International; Mobility
+
+We are now in a "fourth age" of research. The first three ages were the individual, the institutional, and the national. The new fourth age is comprised of international teams of elite scholars sharing resources, ideas, and findings between themselves. This new age will cause tensions, as nations can no longer hoard scientific wealth. The nations that thrive will be those that facilitate these expansive international collaborations and open themselves to the world. 
+
+The author explores this finding by examining bibliometric outputs of different countires, and counting the number of internationally-collaborative papers. 
+
+
+### Adams, J., & Loach, T. (2015). Comment: A well-connected world. Nature, 527(7577), S58–S59. https://doi.org/10.1038/527S58a
+
+Adams & Loach (2015)
+
+A short piece looking at global collaboration networks of univeristies based on co-authorship in the Nature index. They examine specifically how things have changed.
+
+U.S. remains largely tied to Europe. China collaborates with the U.S., but is largely absent from the Asia-Pacific cluster. Australia more closely connected with U.S., but has become stronger in Asia-Pacific. 
+
+"If collaboration is linked with high impact, then research groups who are not part of the collaborative network risk being left behind, marginalized by a lack of access to the cutting edge of research in their field."
+
+
 ---
 ## |C|
 
