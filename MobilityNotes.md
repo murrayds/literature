@@ -419,6 +419,20 @@ There are also several miscelenous points made about visas and their reasonoings
   - This is illustrated in the paper using the cases of the Netherlands, France, and Morocco
 
 ---
+
+## |D|
+
+
+### Dietz, J. S., Chompalov, I., Bozeman, B., Lane, E. O., & Park, J. (2000). Using the Curriculum Vita to Study the Career Paths of Scientists and Engineers: An Exploratory Assessment. Scientometrics, 49(3), 419–442. https://doi.org/10.1023/A:1010537606969
+
+Dietz et al., (2000)
+
+**Tags:** CVs; 
+
+A methodological piece, and one of the first papers to explore the utility of CVs for analysis scientist's career paths. They focus on professors in biotechnology, and actually emailed potential respondents. The gist is that it was difficult and a lot of manual work and coding, and at the time internet searches were not as helpful. 
+
+
+---
 ## |F|
 
 ### Freeman, R. B. (2006). Does Globalization of the Scientific/Engineering Workforce Threaten U.S. Economic Leadership? Innovation Policy and the Economy, 6, 123–157.
