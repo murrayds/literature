@@ -323,11 +323,52 @@ The authors found:
 - Productivity clusters, wherein humanists publish far more books and articles without ISSNs, while molecular biologics produce less than the physical sciences. 
 - No positive relationship between mobility and research performance, contradicting intuition and the views of policy makers. In fact, the authors found that for molecular biologists, there is a negative relationship. 
 
+
+### Cañibano, C., Otamendi, F. J., & Solís, F. (2011). International temporary mobility of researchers: a cross-discipline study. Scientometrics, 89(2), 653. https://doi.org/10.1007/s11192-011-0462-2
+
+Cañibano, Otamendi, & Solís, (2011)
+
+**Tags:** discipline; temporary; short-term
+
+Studies disciplinary differences in short-term mobility (length between one week and 2 years) using Spanish researcher's CVs. 
+- The majority of Andalusian authors registered no research visits (~60%)
+- The discipline with the greatest mobility were the social sciences (47.3%), following by the humanities (41.6%), environmental sciences (41.5%), life sciences at 27%, and in last place, science and technology of health (19.6%)
+- In past research that held a definition of research that precluded short-term stays, social sciences and humanities had some of the least mobility. But in these fields short-term mobility is incredibly common
+- Mobility is also found to start generally in the pre-doctoral period, but later in life than average for the social sciences and humanities.  
+
+
+### Cañibano, C., & Woolley, R. (2015). Towards a Socio-Economics of the Brain Drain and Distributed Human Capital. International Migration, 53(1), 115–130. https://doi.org/10.1111/imig.12020
+
+Cañibano & Woolley (2015)
+
+**Tags:** Human Capital; Theory
+
+Takes a history persepctive on mo ility to exmaine how ideas on brain drain have changed over time. the authors argue that while the brain drain is partly due to disparities of scientific development between countries, the “most fundamental problem is the conceptual conflation of the demographic category of skilled human resources for science and technology (HRST) and the economic concept of human capital (HC)”.
+
+The authors start their analysis at the brain drain debate of the 1960s, where two perspectives of brain drain were common, the Nationalist-pessimistic (Stocks of professionals) and the internationalist-optimistic (flows/sharing of professionals). Subsequent approaches to the debate focused on market forces completing individuals with high value (skills, knowledge) to emigrate or seek education abroad; most models of this type perceived high-skilled emigration as detrimental to developing sending countries, although others also proposed the idea of brain gain, arguing that developing countries benefit from sending researchers to other countries. 
+
+Discussion on circulation follows, which is then proceeded by another review of the literature on Diaspora Knowledge Networks, which likely reconfigure human-capitol distributions and whose effects are largely contingent on the specific circumstances. The authors close by saying that human capitol is complicated and should not be represented as an aggregate (unlike HRST), “but as distributed across heterogeneous structures embedded in time and space; variably context dependent and therefor nor automatically transferrable; and complementary to other assets that make it valuable”. 
+
+Mobility is complicated. Mobility is hard. Mobility is context-dependent. There is no good theory yet, and caution should be used when analyzing results. This paper is great in that it provides a thorough historical tour of the debates in mobility and migration. 
+
+
 ### Chessa, A., Morescalchi, A., Pammolli, F., Penner, O., Petersen, A. M., & Riccaboni, M. (2013). Is Europe Evolving Toward an Integrated Research Area? Science, 339(6120), 650–651. https://doi.org/10.1126/science.1227970
 
 Chessa et al., 2013
 
 Can be sumamrized as: "Despite efforts to integrate across borders, Europe remains a collection of national innovation systems."
+
+
+### Cruz-Castro, L., & Sanz-Menéndez, L. (2010). Mobility versus job stability: Assessing tenure and productivity outcomes. Research Policy, 39(1), 27–38. https://doi.org/10.1016/j.respol.2009.11.008
+
+Cruz-Castro & Sanz-Menéndez (2010)
+
+**Tags:** Productivity; Tenure; Policy
+
+Focuses on inter-institutional mobility and the problem of “inbreeding” in science in the Spanish university context. Academic inbreeding is considered to be when a university hires a new professor who is a graduate from their program, and some even extend this definition to include graduates from similar programs (such as Ivy Leagues only hiring Ivy League graduates). 
+- Spain has very little mobility across the board, 
+- Contrary to results from U.S. based studies, the authors find no evidence that institutional mobility, whether inbreeding or not, affects their scientific performance later in their career. 
+- Higher productivity does not affect the awarding of early tenure, that women are half as likely to get tenure early in their career, and that there are differences in the awarding of early tenure between fields. 
 
 
 ### Czaika, M., & Orazbayev, S. (2018). The globalisation of scientific mobility, 1970–2014. Applied Geography, 96, 1–10.
