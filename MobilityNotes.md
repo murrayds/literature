@@ -146,7 +146,24 @@ Armano et al. 2017
 
 The authors build a numerical simulation model based around innovation, and through running it find that "mobility" between groups tends to lead to invreased innovation. They however do not confirm this model with real data, and so it is difficult to do much with this paper except cite it as another example of how mobility is beneficial for innovation
 
-## Auriol, L. (2010). Careers of Doctorate Holders: Employment and Mobility Patterns. https://doi.org/10.1787/5kmh8phxvvf5-en
+
+### Arrieta, O. A. D., Pammolli, F., & Petersen, A. M. (2017). Quantifying the negative impact of brain drain on the integration of European science. Science Advances, 3(4)
+
+Arrieta et al., 2017
+
+**Tags:** Europe; Brain Drain' Brain Circulation; Mobility; Collaboration
+
+
+The authors focus on the 2004 EU enlargemnt, when many member states were added to the union, and compared the rates of cross-border collabroation before and after. They find that the rate of cross-boder publications and collaboration would have been higher if the member states weren't added, which was driven by the regional differences in the impact of emigration, and the high-level of emigration from East to Weat. 
+
+This is parly attributed to the idea that "When a researcher not onlymoves abroad
+but also brings his or her international links along, this represents a loss
+of social capital—in addition to human capital and tacit knowledge
+(33, 34)—that may further reduce the potential for knowledge spillovers
+across countries."
+
+
+### Auriol, L. (2010). Careers of Doctorate Holders: Employment and Mobility Patterns. https://doi.org/10.1787/5kmh8phxvvf5-en
 
 Autiol (2010)
 
@@ -159,6 +176,7 @@ An OECD report outlining the demographics and mobility pattenrs of doctorate hol
 - Intra-european migrations dominates European mobility, especially towards the United Kingdom, France, and Germany
 - The other dominant pattern of mobility is from Asia to the United States, principally from China, India, and South korea
 - Many doctorate holders obtain a doctorate in their host country, whereas another large proportion obtains a doctorate in their home country, and moves afterwards
+
 
 ### Azoulay, P., Ganguli, I., & Graff Zivin, J. (2017). The mobility of elite life scientists: Professional and personal determinants. Research Policy, 46(3), 573–590.
 
@@ -175,6 +193,17 @@ Using a set of over 10,000 career histories of elite life scientists, the author
 
 ---
 ## |B|
+
+
+### Bahar, D., Choudhury, P., & Rapoport, H. (2020). Migrant inventors and the technological advantage of nations. Research Policy, 103947. 
+
+Bahar et al., (2020)
+
+**Tags:** Patents; Inventors; Nations
+
+The authors investigate the effects of the migrtion of inventors on a country's technological advantage. They find that, for a given technological area, doubling the number of inventors in that area (through migration) correponds to a 25-60% increase in the likelihood of having an advantage in that area of tech (measured in RCA) in the next decade. In many areas of technology, this doubling of inventors can be as low as 25 people.
+
+Basically, inventors immigration bolster national technology competativeness in their area of specialty. 
 
 ### Bäker, A. (2015). Non-tenured post-doctoral researchers’ job mobility and research output: An analysis of the role of research discipline, department size, and coauthors. Research Policy, 44(3), 634–650. https://doi.org/10.1016/j.respol.2014.12.012
 
@@ -432,6 +461,27 @@ Dietz et al., (2000)
 A methodological piece, and one of the first papers to explore the utility of CVs for analysis scientist's career paths. They focus on professors in biotechnology, and actually emailed potential respondents. The gist is that it was difficult and a lot of manual work and coding, and at the time internet searches were not as helpful. 
 
 
+
+---
+## |E|
+
+### Edler, J., Fier, H., & Grimpe, C. (2011). International scientist mobility and the locus of knowledge and technology transfer. Research Policy, 40(6), 791–805. 
+
+Edler et al., 2011
+
+**Tags:** Mobility; Germany; Industry; Knowledge Transfer
+
+The authors investigate how international mobility relates to Knowledge and Technology Transfer (KTT), roughly meaning the transfer of knwoeldge between, typically from, Science to Industry (such as patents, licensisng, collaborations, and visits). The idea is that mobility would lead to more human capital, which in turn increases the likelihood of KTT. 
+
+The authors survey ~950 German researchers in various STEM fields likely to be involved in Industry about their activity in KTT and short and long-term mobility. In doing so, they reveal a host of insights:
+
+1. Mobile researchers were more productive than non-mobile researchers in terms of publications
+2. 80% of mobile researchers stated that their mobility was funded through grants, but only one fifth were satisfied with their level of funding for such travel
+3. KTT is not a zero-sum game between host and destination countris—scientists who transfer knoweldge & tech do so both at home and abroad, and its complementary!
+4. The longer a scientist's research visit, the more likely they are to engage in KK in both the host and the home country
+5. The more frequent a scientist is mobile, the more they engage in KTT in their home country. This means that a country benefits even though their scientists are frequenty abroad. 
+6. University scientsits are much more likely to be mobile but less likely to transfer knoweldge & tech internationally than scientists from public research instituties (klike Max PLanck's)
+
 ---
 ## |F|
 
@@ -470,6 +520,38 @@ Kerr & Lincoln (2010)
 **Tags:** Visa; H-1B; Innovation; Pantenting; Highly-skilled
 
 The authors examine the extent to which fluctuations in the H-1B visa cap between 1995 and 2008 relates to the incidence of patenting among those with Chinese and Indian family names in U.S. cities. They find that immigrants are especially important for U.S. innovation. Fluctuations in H-1B admissions significantly influenced the rate of Indian and Chinese patentintg in cities, relative to their peers. Total invention increased with higher H-1B admissions primarily through the contributions of immigrant inventors. 
+
+
+---
+## |L|
+
+### Edler, J., Fier, H., & Grimpe, C. (2011). International scientist mobility and the locus of knowledge and technology transfer. Research Policy, 40(6), 791–805. 
+
+Edler et al., 2011
+
+**Tags:** Mobility; Germany; Industry; Knowledge Transfer
+
+The authors investigate how international mobility relates to Knowledge and Technology Transfer (KTT), roughly meaning the transfer of knwoeldge between, typically from, Science to Industry (such as patents, licensisng, collaborations, and visits). The idea is that mobility would lead to more human capital, which in turn increases the likelihood of KTT. 
+
+The authors survey ~950 German researchers in various STEM fields likely to be involved in Industry about their activity in KTT and short and long-term mobility. In doing so, they reveal a host of insights:
+
+1. Mobile researchers were more productive than non-mobile researchers in terms of publications
+2. 80% of mobile researchers stated that their mobility was funded through grants, but only one fifth were satisfied with their level of funding for such travel
+3. KTT is not a zero-sum game between host and destination countris—scientists who transfer knoweldge & tech do so both at home and abroad, and its complementary!
+4. The longer a scientist's research visit, the more likely they are to engage in KK in both the host and the home country
+5. The more frequent a scientist is mobile, the more they engage in KTT in their home country. This means that a country benefits even though their scientists are frequenty abroad. 
+6. University scientsits are much more likely to be mobile but less likely to transfer knoweldge & tech internationally than scientists from public research instituties (klike Max PLanck's)
+
+
+### Lepori, B., Seeber, M., & Bonaccorsi, A. (2015). Competition for talent. Country and organizational-level effects in the internationalization of European higher education institutions. Research Policy, 44(3), 789–802.
+
+Lepori et al., 2015
+
+**Tags:** Europe; Mobility; Country; Univeristy
+
+The authors compare the relevance of country-level and institutional-level factors in attracting foreign talent in a small set of European countires. They find that country-level factors are the most important, and even high-ranking research-intensive univeristies in non-attractive countires struggle to attract foreign talent. Also, research-focused, as compared to teaching-focused institutions have more foreign students, faculty and staff. They speculate that by opening academic labor marker,s that rich countires will likel benefit, wheras the impact on poorer countires is less certain. 
+
+Their metrics for attractiveness are based on the number of faculty and staff, and their research intesnsity
 
 
 ---
