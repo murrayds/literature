@@ -1,5 +1,22 @@
 ## |B|
 
+
+### Balietti, S., & Riedl, C. (2021). Incentives, competition, and inequality in markets for creative production. Research Policy, 50(4), 104212. https://doi.org/10.1016/j.respol.2021.104212
+
+Balietti et al., 2021
+
+**Tags:** Competition; Peer Review; Experiment; Innovation
+
+The authors conduct an online experiment, having people create images and evaluating them across several iterations. What they find is that the reward structure of this "creative market" shapes what kind of things get created, and can drive inequality in the system. Specifically,
+
+> The reward structures affect not only the quality of what is produced but also the style—the trajectory of innovation—through cultural evolution. As producers repeatedly submit their work to the top tier, a distinct style of work emerges. This shows that the level of competition affects not only the absolute level of novelty and quality, but also the direction of innovation. Repeated submissions build on each other and evolve a distinct style over time
+
+In addition:
+
+> We find that two micro level effects contribute to inequality in the stratified market. First, successful producers who accumulate slack resources remain more innovative than producers without slack resources, which provides them with cumulative advantage. Second, the increased competition amplifies individual-level differences. Some innovators thrive in the competitive environment, while others fall behind. In addition, the harsh competition for the scarce but high payoff of the toptier outlet fuels strategic behavior during the peer review process. This instills a feeling of unfairness among producers and likely contributes to higher exit rates.
+
+So scarcity of "top spots" does fuel high-quality output, but is also drives people to exit the system. Excessive competative pressures can also discourage people from competing for these scarse resources, lowering the quality of their work, even if they stay in the system. 
+
 ### Bozeman, B., Dietz, J. S., & Gaughan, M. (2001). Scientific and technical human capital: An alternative model for research evaluation. International Journal of Technology Management, 22(7–8), 716–740. https://doi.org/10.1504/IJTM.2001.002988
 
 Bozeman, Dietz, & Gaughan (2001)
