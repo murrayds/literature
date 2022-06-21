@@ -1,5 +1,9 @@
-# diss_proposal
+# Literature notes
 
-Included here are notes for various aspects of my dissretation. Organization is done on-the-fly so some things might be in untuitive places. Future me will hopefully be working to improve this. 
+I use this as a dumping ground for notes from various projects. Notes are roughly arranged into particular categories, divided across files. Within each file, notes are arranged alphabetically by the first author's name. 
 
-If you have any comments, additions, or questions, please send them to dakmurra@iu.edu
+Feel free to add or expand these notes. 
+
+If you have any thoughts or questions, please email me at dakota.s.murray@gmail.com
+
+
